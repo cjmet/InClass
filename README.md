@@ -1,11 +1,18 @@
-# Maui Blazor Hybrid Template
-## Code Kentucky - Software Development Module 
-Just a quick template for Maui MudBlazor Hybrid projects.
+# In-Class Demo of Maui Blazor Hybrid Template
+
+## Code Kentucky - Software Development Module
+
+This is the In-Class Demo Copy, where we are building a project ground up live in class.
 
 &nbsp;
 
+<details>
+<summary>More Blazor and MudBlazor Info</summary>
+
 ### Ready for more?
+
 A common pitfall is to jump straight into different components. MudBalzor recommends that you read their Layout page to learn about basic project structure and different ways to use the main layout components.
+
 - [MudBlazor Layouts](https://mudblazor.com/getting-started/layouts)
 - [MudBlazor Wireframes](https://mudblazor.com/getting-started/wireframes)
 
@@ -20,4 +27,5 @@ A common pitfall is to jump straight into different components. MudBalzor recomm
 <summary>Access the Blazor Console</summary>
 
 - F12 -> Console: To access the console for error messages etc, _While the App is Running_ press F12 and Select the Console Button
+</details>
 </details>
