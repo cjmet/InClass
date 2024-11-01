@@ -2,7 +2,7 @@
 
 ## Code Kentucky - Software Development Module
 
-This is the In-Class Demo Copy, where we are building a project ground up live in class.
+May 2024 Tuesday SD. This is the In-Class Demo Copy, where we are building a project ground up live in class.
 
 &nbsp;
 
